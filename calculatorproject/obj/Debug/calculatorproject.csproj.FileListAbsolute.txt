@@ -1,0 +1,10 @@
+C:\Users\DELL PRECISION\source\repos\calculatorproject\bin\Debug\calculatorproject.exe.config
+C:\Users\DELL PRECISION\source\repos\calculatorproject\bin\Debug\calculatorproject.exe
+C:\Users\DELL PRECISION\source\repos\calculatorproject\bin\Debug\calculatorproject.pdb
+C:\Users\DELL PRECISION\source\repos\calculatorproject\obj\Debug\calculatorproject.csprojAssemblyReference.cache
+C:\Users\DELL PRECISION\source\repos\calculatorproject\obj\Debug\calculatorproject.Form1.resources
+C:\Users\DELL PRECISION\source\repos\calculatorproject\obj\Debug\calculatorproject.Properties.Resources.resources
+C:\Users\DELL PRECISION\source\repos\calculatorproject\obj\Debug\calculatorproject.csproj.GenerateResource.cache
+C:\Users\DELL PRECISION\source\repos\calculatorproject\obj\Debug\calculatorproject.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRECISION\source\repos\calculatorproject\obj\Debug\calculatorproject.exe
+C:\Users\DELL PRECISION\source\repos\calculatorproject\obj\Debug\calculatorproject.pdb
